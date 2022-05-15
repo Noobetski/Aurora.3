@@ -293,8 +293,7 @@
 /datum/unit_test/map_test/all_station_areas_shall_be_on_station_zlevels
 	name = "MAP: Station areas shall be on station z-levels"
 	var/list/exclude = list(
-		/area/holodeck, // These are necessarily mapped on a non-station z-level so they can be copied over to the holodeck on the station z-levels
-		/area/horizon/holodeck
+		/area/holodeck // These are necessarily mapped on a non-station z-level so they can be copied over to the holodeck on the station z-levels
 		)
 
 /datum/unit_test/map_test/all_station_areas_shall_be_on_station_zlevels/start_test()

@@ -6,7 +6,7 @@
 	ut_environ_exempt_areas = list(/area/space
 		,/area/solar
 		,/area/shuttle
-		,/area/horizon/holodeck
+		,/area/holodeck
 		,/area/supply/station
 		,/area/tdome
 		,/area/centcom
