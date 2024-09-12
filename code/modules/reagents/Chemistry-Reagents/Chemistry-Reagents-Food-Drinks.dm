@@ -540,7 +540,7 @@
 	description = "A type of green tea originating from Japan on Earth, sencha is unique in that it is steamed instead of pan-roasted like most teas. \
 			It has a fresh flavor profile as a result, with flavors like seaweed, grass, or spinach greens predominant. On Konyang, it is most popular in Aoyama."
 	color = "#0E1F0E"
-	taste_description = "bitter seaweed and even more bitter grass"
+	taste_description = "a grassy, herbal sensation"
 	condiment_name = "ground sencha"
 
 /singleton/reagent/nutriment/teagrounds/tieguanyin
@@ -548,7 +548,7 @@
 	description = "A type of oolong tea originating from China on Earth. Like most oolongs, its flavor is somewhere between green and black tea. \
 				It has a nutty, peppery, and floral flavor profile. On Konyang, it is most popular in Ganzaodeng and New Hong Kong."
 	color = "#5C6447"
-	taste_description = "rough floral peppercorns"
+	taste_description = "a mix of bitterness and herbal tones"
 	condiment_name = "ground tieguanyin"
 
 /singleton/reagent/nutriment/teagrounds/jaekseol
@@ -556,7 +556,7 @@
 	description = "A type of black tea originating from Korea on Earth. It has a relatively typical flavor for a black tea, with a sweet, toasty flavor. \
 				On Konyang, it is most popular in Suwon, although coffee is still a more popular beverage in general."
 	color = "#534337"
-	taste_description = "harsh burnt toast"
+	taste_description = "strong bitter tea flavour"
 	condiment_name = "ground jaekseol"
 
 /singleton/reagent/nutriment/cocagrounds
